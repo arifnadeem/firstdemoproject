@@ -1,3 +1,6 @@
 git push command use
 
 demo for online editor
+
+
+git fetch & git merge
